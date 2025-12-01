@@ -1,6 +1,6 @@
 # Item Drop Simulator
 
-A C++ command-line tool that simulates the monster drop system from Metin2. It reads drop tables from a config file, lets you fight different monsters, and shows what items you get based on realistic probability calculations.
+A C++ command-line tool that simulates the monster drop system . It reads drop tables from a config file, lets you fight different monsters, and shows what items you get based on realistic probability calculations.
 
 ## What it does
 
@@ -104,7 +104,7 @@ This project demonstrates several key concepts needed for game server developmen
 - Logging and statistics tracking
 - Clean, readable code structure
 
-It's also directly relevant to Metin2 server work since drop tables are a core mechanic in the game.
+It's also directly relevant  server work since drop tables are a core mechanic in the game.
 
 ## License
 

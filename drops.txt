@@ -1,4 +1,4 @@
-# Metin2 Drop Configuration File
+# Drop Configuration File
 # Format:
 # [MONSTER]
 # name=MonsterName

@@ -200,7 +200,7 @@ public:
         }
 
         std::cout << PURPLE << "╔════════════════════════════════╗" << std::endl;
-        std::cout << "║  Metin2 Drop System Simulator ║" << std::endl;
+        std::cout << "║        Drop System Simulator ║" << std::endl;
         std::cout << "╚════════════════════════════════╝" << RESET << std::endl;
 
         int choice;
