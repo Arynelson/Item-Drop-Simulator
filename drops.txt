@@ -1,0 +1,74 @@
+# Metin2 Drop Configuration File
+# Format:
+# [MONSTER]
+# name=MonsterName
+# level=MonsterLevel
+# item=ItemName,Rarity,DropChance(%)
+
+[MONSTER]
+name=Wild Wolf
+level=5
+item=Wolf Pelt,Common,35.0
+item=Wolf Fang,Common,25.0
+item=Small HP Potion,Common,15.0
+item=Iron Ore,Uncommon,8.0
+item=Wolf Claw,Uncommon,5.0
+item=Ring of Strength,Rare,1.2
+item=Wolf King's Tooth,Epic,0.3
+
+[MONSTER]
+name=Orc Warrior
+level=15
+item=Orc Leather,Common,30.0
+item=Rusty Sword,Common,20.0
+item=Medium HP Potion,Common,18.0
+item=Steel Ore,Uncommon,10.0
+item=Orc Helmet,Uncommon,6.5
+item=Battle Axe,Rare,2.0
+item=Orcish War Banner,Rare,1.0
+item=Legendary Orc Armor,Epic,0.5
+
+[MONSTER]
+name=Dark Assassin
+level=25
+item=Shadow Cloak Fragment,Common,28.0
+item=Poison Vial,Common,22.0
+item=Large HP Potion,Common,16.0
+item=Assassin's Dagger,Uncommon,12.0
+item=Dark Crystal,Uncommon,8.0
+item=Nightblade,Rare,3.5
+item=Shadow Walk Scroll,Rare,2.0
+item=Amulet of Darkness,Epic,0.8
+
+[MONSTER]
+name=Fire Dragon
+level=45
+item=Dragon Scale,Uncommon,25.0
+item=Dragon Tooth,Uncommon,18.0
+item=Fire Stone,Uncommon,15.0
+item=Dragon Blood,Rare,10.0
+item=Dragon Heart,Rare,5.0
+item=Flaming Sword,Epic,2.5
+item=Dragon Armor Piece,Epic,1.5
+item=Dragon Soul Crystal,Epic,0.5
+
+[MONSTER]
+name=Skeleton Archer
+level=12
+item=Bone Fragment,Common,40.0
+item=Broken Arrow,Common,30.0
+item=Ancient Bow,Uncommon,10.0
+item=Cursed Quiver,Uncommon,7.0
+item=Soul Stone,Rare,3.0
+item=Death's Bow,Epic,0.8
+
+[MONSTER]
+name=Ice Yeti
+level=35
+item=Yeti Fur,Common,32.0
+item=Ice Shard,Common,24.0
+item=Frost Potion,Uncommon,14.0
+item=Frozen Heart,Uncommon,9.0
+item=Yeti Horn,Rare,4.5
+item=Glacial Staff,Rare,2.5
+item=Crown of Winter,Epic,1.0
